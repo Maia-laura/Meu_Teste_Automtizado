@@ -1,0 +1,15 @@
+# ambiente virtual
+.venv/
+venv/
+
+#relatorio gerado
+allure-report/
+allure-results/
+
+
+#prints de falha
+reports/screenshots/
+
+#cache python
+__pycache__/
+*.pyc
